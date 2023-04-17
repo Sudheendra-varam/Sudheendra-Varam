@@ -1,6 +1,6 @@
 
 <div>
-<img align="center" src="@Sudeer_007.png">
+<img align="center" src="Sudeer_007.png">
 </div>
 
 <h3 align="center">
